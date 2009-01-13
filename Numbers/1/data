@@ -1,56 +1,90 @@
 \c 1
-\p 
-\v 1
-\v 2
-\v 3
-\v 4
-\v 5
-\v 6
-\v 7
-\v 8
-\v 9
-\v 10
-\v 11
-\v 12
-\v 13
-\v 14
-\v 15
-\v 16
-\v 17
-\v 18
-\v 19
-\v 20
-\v 21
-\v 22
-\v 23
-\v 24
-\v 25
-\v 26
-\v 27
-\v 28
-\v 29
-\v 30
-\v 31
-\v 32
-\v 33
-\v 34
-\v 35
-\v 36
-\v 37
-\v 38
-\v 39
-\v 40
-\v 41
-\v 42
-\v 43
-\v 44
-\v 45
-\v 46
-\v 47
-\v 48
-\v 49
-\v 50
-\v 51
-\v 52
-\v 53
-\v 54 .
+\s Mosesi anorairwa kuverenga valsiraeri
+\p
+\v 1 Zvino Jehovha akataura naMosesi murenje reSinai, patende rokusangana, nezuva rokutanga romwedzi wechipiri negore rechipiri rokubuda kwavo Ijipiti, akati,
+\v 2 "Verenga ungano yose yavana vaIsiraeri, mhuri dzavo, nedzimba dzamadzibaba avo, namazita avarume vose, mumwe nomume.
+\v 3 Iwe naAroni muverenge mapoka avo, vana makore ana makumi maviri navanopfuura, vose pakati pavaIsiraeri vanogona kundorwa.
+\v 4 Munofanira kuenda nomurume worudzi rumwe norumwe, mukuru weimba yamadzibaba ake.
+\v 5 Ndiwo mazita avarume vanofanira kukubatsirai: WokwaRubheni, Erizuri, mwanakomana waShedheuri.
+\p
+\v 6 WokwaSimeoni, Sherumieri, mwanakomana waZurishadhai.
+\p
+\v 7 WokwaJudha, Nashoni, mwanakomana waAminadhabhu.
+\p
+\v 8 WokwaIsakari, Netaneri, mwanakomana waZuari.
+\p
+\v 9 WokwaZebhuruni, Eriabhu, mwanakomana waHeroni.
+\p
+\v 10 Vokuvana vaJosefa: WokwaEfuremu, Erishama, mwanakomana waAmihudhi; wokwaManase, Gamarieri, mwanakomana waPedhazuri.
+\p
+\v 11 WokwaBhenjamini, Abhidhani, mwanakomana waGidheoni.
+\p
+\v 12 WokwaDhani, Ahiezeri, mwanakomana waAmishadhai.
+\p
+\v 13 WokwaAsheri, Pagieri, mwanakomana waOkirani.
+\p
+\v 14 WokwaGadhi, Eriasafi, mwanakomana waDheueri.
+\p
+\v 15 WokwaNafutari, Ahira, mwanakomana waEnani."
+\p
+\v 16 Ndivo vakadanwa paungano, ari machinda amarudzi amadzibaba avo, vakuru vedzimba dzavaIsiraeri.
+\p
+\v 17 Zvino Mosesi naAroni vakatora varume ava varehwa mazita avo,
+\v 18 vakakoka vaIsiraeri vose nezuva rokutanga romwedzi wechipiri, ivo vakavarondedzera marudzi avo, mhuri dzavo, nedzi mba dzamadzibaba avo, namazita avose vakanga vana makore ana makumi maviri navanopfuura, mumwe nomumwe.
+\p
+\v 19 Akavaverenga murenje reSinai, sezvakanga zvarairwa Mosesi naJehovha.
+\p
+\v 20 Vokuvana vaRubheni, mwanakomana wedangwe waIsiraeri navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, mumwe nomumwe, varume vose vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 21 vakaverengwa kwavari, vorudzi rwaRubheni vakasvika zviuru zvina makumi mana nezvitanhatu namazana mashanu.
+\p
+\v 22 Vokuvana vaSimeoni, namarudzi avo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, vose vakaverengwa kwavari namazita avo, vose vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 23 vakaverengwa kwavari, vorudzi rwaSimeoni, vakasvika zviuru zvina makumi mashanu nezvipfumbamwe namazana matatu.
+\p
+\v 24 Vokuvana vaGadhi, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vose vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 25 vakaverengwa kwavari, vorudzi rwaGadhi, vakasvika zviuru zvina makumi mana nezvishanu namazana matanhatu namakumi mashanu.
+\p
+\v 26 Vokuvana vaJudha, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 27 vakaverengwa kwavari, vorudzi rwaJudha, vakasvika zviuru zvina makumi manomwe nezvina namazana matanhatu.
+\p
+\v 28 Vokuvana vaIsakari, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 29 vakaverengwa kwavari, vorudzi rwaIsakari, vakasvika zviuru zvina makumi mashanu namazana mana.
+\p
+\v 30 Vokuvana vaZebhuruni, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 31 vakaverengwa kwavari, vorudzi rwaZebhuruni, vakasvika zviuru zvina makumi mashanu nezvinomwe namazana mashanu.
+\p
+\v 32 Vokuvana vaJosefa, ivo vana vaEfuremu, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri, vose vaigona kundorwa,
+\v 33 vakaverengwa kwavari, vorudzi rwaEfuremu, vakasvika zviuru zvina makumi mana namazana mashanu.
+\p
+\v 34 Vokuvana vaManase, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 35 vakaverengwa kwavari, vorudzi rwaManase, vakasvika zviuru zvina makumi matatu nezviviri namazana maviri.
+\p
+\v 36 Vokuvana vaBhenjamini, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 37 vakaverengwa kwavari, vorudzi rwaBhenjamini, vakasvika zviuru zvina makumi matatu nezvishanu namazana mana.
+\p
+\v 38 Vokuvana vaDhani, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri nava‑
+\p nopfuura, vos.e vaigona kundorwa,
+\v 39 va‑
+\s kaverengwa kwavari, vorudzi rwaDhani, vakasvika zviuru zvina makumi matanhatu namazana manomwe.
+\p
+\v 40 Vokuvana vaAsheri, navana vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 41 vakaverengwa kwavari, vorudzi rwaAsheri, vakasvika zviuru zvina makumi mana nechiuru chimwe, namazana mashanu.
+\p
+\v 42 Vokuvana vaNafutari, navana
+\p vavo, vakaverengwa mhuri dzavo, nedzimba dzamadzibaba avo, namazita avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa,
+\v 43 vakaverengwa kwavari, vorudzi rwa‑
+\s Nafutari, vakasvika zviuru zvina makumi mashanu nezvitatu namazana mana.
+\p
+\v 44 Ndivo vakaverengwa, vakaverengwa naMosesi naAroni, namachinda avaIsiraeri, vaiva varume vane gumi navaviri, mumwe nomumwe panzvimbo yeimba yababa vake.
+\v 45 Naizvozvo vose vakaverengwa vavana vaIsiraeri nedzimba dzamadzibaba avo, vakanga vana makore makumi maviri navanopfuura, vose vaigona kundorwa pakati pavaIsiraeri,
+\v 46 vose vakaverengwa vakasvika zviuru zvina mazana matanhatu nezvitatu namazana mashanu namakumi mashanu.
+\p
+\v 47 Asi vaRevhi, norudzi rwamadzibaba avo, havana kuverengwa pakati pavo.
+\v 48 Nokuti Jehovha akanga ataura naMosesi akati,
+\v 49 "Asi vorudzi rwaRevhi voga usavaverenga, usavaverengera pakati pavana vaIsiraeri,
+\v 50 asi vaRevhi uvagadze, vave vatariri vetabhenakeri yechipupuriro, nenhumbi dzayo dzose, nezvose zvayo; ndivo vanofanira kutakura tabhenakeri, nenhumbi dzayo dzose, nekushumirapo, nokukomba tabhenakeri nemisasa yavo.
+\v 51 Zvino kana tabhenakeri ichipfuura mberi, vaRevhi ndivo vanofanira kuibvisa; uye kana tabhenakeri
+\p dzikwazve, vaRevhi ndivo vanofanira kuivaka; munhu asina kufanira anoswederako, anofanira kuurawa.
+\v 52 Vana vaisiraeri vanofanira kudzika matende avo, mumwe nomumwe pamisasa yovokwake, mumwe nomumwe pamureza wovokwake, vachiita mapoka avo.
+\v 53 Asi vaRevhi vanofanira kudzika matende avo vachikomba tabhenakeri yechipupuriro, kuti rudzi rwavana vaIsiraeri rurege kutsamwirwa; vaRevhi vanofanira kubata mabasa etabhenakeri yechipupuriro."
+\v 54 Vana vaIsiraeri vakaita saizvozvo; Mosesi sezvaakarairwa naJehovha, ndizvo zvavakaita.
+
