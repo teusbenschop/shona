@@ -1,10 +1,11 @@
 \c 6
 \s Murayiro wavaNaziri
+\nb
 \v 1 Zvino Jehovha akataura naMosesi akati,
 \v 2 "Taura navana vaIsiraeri, uti
-\s kwavari, `Kana murume, kunyange, mu‑
-\s kadzi, akazvisunga nokupika kukuru,
-\s kupika kwomuNaziri, kuti azvitsaurire
+\s
+\s kwavari, `Kana murume, kunyange, mukadzi, akazvisunga nokupika kukuru, kupika kwomuNaziri, kuti azvitsaurire
+\p
 \p Jehovha;
 \v 3 anofanira kuramba waini ne‑
 \s zvinobata, haafaniri kunwa vhiniga ye‑
@@ -42,8 +43,10 @@
 \p anofanira kuuveura.
 \v 10 Musi worusere
 \s anofanira kuuya kumupristi nenjiva
-\s twalxa k\INiT‘ tw enjiv a parnu‑
-\s kova wetende rokusangana; 
+\s twalxa k
+\INiT‘ tw enjiv a parnu‑
+\s kova wetende rokusangana;
+\nb
 \v 11 mupristi agobayira imwe chive chipiriso chezvivi, neimwe chive chipiriso chinopiswa, amuyananisire zvaakatadza nokuda kwowakafa, anatse musoro wake nomusi
 \p uyo.
 \v 12 Anofanira kutsaurira Jehovha mazuva okuzvitsaura kwake, ndokuuya negwayana regondohwe regore rimwe, chive chipiriso chemhosva; asi mazuva okutanga haangaverengwi, nokuti kuzvitsaura kwake kwakanga kwasvibiswa.
@@ -66,4 +69,3 @@
 \v 25 Jehovha akuvhenekere nechiso chake, akunzwire nyasha;
 \v 26 Jehovha akusimudzire chiso chake, akupe rugare.'
 \v 27 Nokudaro vachaisa zita rangu pavana vaIsiraeri; neni ndichavaropafadza."
-
