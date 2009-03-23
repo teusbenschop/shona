@@ -1,23 +1,93 @@
 \c 4
-\s Kutambudzika kwavanhu
-\s nokuda kwezvivi
+\s Kutambudzika kwavanhu nokuda kwezvivi
 \p
-\v 4
 \v 1 Haiwa, ndarama yasviba sei! Ndarama yakaisvo-naka yashanduka sei!
 \s Mabwe enzvimbo tsvene arashirwa pamharadzano dzenzira dzomuguta.
-\p
-\v 2 Vanakomana vanodikanwa velioni vakafanana nendarama yakaisvo-naka,
+\p 2 Vanakomana vanodikanwa velioni vakafanana nendarama yakaisvo-naka,
 \s haiwa vakanzi vakaita sezvirongo zvevhu sei,
 \s iro basa romuumbi wehari!
-\p
-\v 3 Kunyange namakava anobudisa mazamu,
+\p 3 Kunyange namakava anobudisa mazamu,
 \s achiyamwisa vana vawo;
 \s mukunda wavanhu vangu
 \s wava nehasha semhou murenje.
-\p
-\v 4 Rurimi rwomwana unomwa runonatnatira
+\p 4 Rurimi rwomwana unomwa runonatnatira
 \s mumukanwa womuromo wake nenyota;
 \s vanana vanokumbira chingwa,
 \s asi hakuna munhu anovamedurira.
 \p
-\v 5 Avo vaisidya zvinozipa,varaswa munzira dzomuguta; vairerwa vakafuka micheka mitsvuku, zvino votsivama pamaturunhuru. 6 Nokuti zvakaipa zvomukunda wavanhu vangu zvinopfuura zvivi zveSodhoma, iro rakaparadzwa kamwe-kamwe kusina maoko akaribata. 7 Machinda aro akanga akapfuura chando nokunaka, akanga akachena kupfuura mukaka, akanga akatsvuka pamuviri kupfuura makorari, pakuonekwa akanga akaita sesafaya. 8 Zviso zvavo zvasviba kupfuura mazimbe, havazikanwi munzira dzomuguta; ganda ravo rinonamatira mapfupa avo, raoma, rafanana nedanda. 9 Vakaurawa nomunondo vakaita nani kuna vakaurawa nenzara; nokuti ava vaonda, vabayiwa nokushayiwa zvibereko zveminda. 1° Maoko avakadzi vaiva nomwoyo munyoro akabika vana vavo, zvikava zvokudya zvavo pakuparadzwa kwomukunda wavanhu vangu. 11 Jehovha akaita zvaakanga achida nokutsamwa kwake, akadurura hasha dzake huru; akabatidza moto paZioni, akapedza nheyo dzaro. 12 Madzimambo enyika haana kutenda, kunyange navose vagere panyika yose, kuti mudzivisi nomuvengi vachapinda pamasuo eJerusaremu. 13 Zvakaitwa nokuda kwezvivi zvavaporofita varo, nezvakaipa zvavapristi varo, vakateura ropa ravakarurama mukati maro. 14 Vanodzungaira samapofu munzira dzomueta, vakasvibiswa neropa, naizvozvo vanhu havagoni kubata nguo dzavo. 15 Vakadanidzira kwavari vachiti, "Ibvai, makan'ora! Ibvai, ibvai, regai kutibata!" Panguva yokutiza nokudzungaira kwavo, vanhu vakati pakati pamarudzi; "Havangazogarizve pano vari vatorwa." 16 Kutsamwa kwaJehovha kwakavaparadzira; haachavi nehanya navo; havana kurangarira vapristi, havana kukudza vakuru. 17 Meso edu anongopera nazvino achitarira rubatsiro rwedu pasina; pakutarira kwedu takatarira rudzi rusingagoni kutiponesa. 18 Vanoronda makwara edu, naizvozvo hatigoni kufamba munzira dzomuguta redu; kuguma kwedu kwava pedyo, mazuva edu asvika, nokuti kuguma kwedu kwasvika. 19 Avo vakadzingana nesu, vakamhanyisa kupfuura makondo okudenga; vakadzingana nesu pamakomo, vakatigarira murenje. 20 Mweya wemhino dzedu, iye muzodzwa waJehovha, wakabatwa muhunza dzavo; iye watakati, "Pamumvuri wake ndipo patichararama pakati pamarudzi." 21 Farisisa, uve nomufaro, iwe mukunda weEdhomu, ugere panyika yeUzi; mukombe uchasvika kwauriwo; uchabatwa newaini ukazvifukura. 22 Kurohwa kwezvakaipa zvako kwapera, iwe mukunda welioni; haachazokutapisizve; iye achakurova pamusoro pezvakaipa zvako, iwe mukunda weEdhomu; iye achafukura zvivi zvako.
+\v 5 Avo vaisidya zvinozipa,varaswa munzira dzomuguta; vairerwa vakafuka micheka mitsvuku,
+\s zvino votsivama pamaturunhuru.
+\p
+\v 6 Nokuti zvakaipa zvomukunda wavanhu
+\s vangu zvinopfuura zvivi zveSodhoma,
+\s iro rakaparadzwa kamwe-kamwe kusina maoko akaribata.
+\p
+\v 7 Machinda aro akanga akapfuura chando nokunaka,
+\s akanga akachena kupfuura mukaka, akanga akatsvuka pamuviri kupfuura makorari,
+\s pakuonekwa akanga akaita sesafaya.
+\p
+\v 8 Zviso zvavo zvasviba kupfuura mazimbe,
+\s havazikanwi munzira dzomuguta; ganda ravo rinonamatira mapfupa avo,
+\s raoma, rafanana nedanda.
+\p
+\v 9 Vakaurawa nomunondo vakaita nani kuna vakaurawa nenzara;
+\s nokuti ava vaonda,
+\s vabayiwa nokushayiwa zvibereko zveminda.
+\p
+\v 1 ° Maoko avakadzi vaiva nomwoyo munyoro
+\s akabika vana vavo,
+\s zvikava zvokudya zvavo pakuparadzwa
+\s kwomukunda wavanhu vangu.
+\p
+\v 11 Jehovha akaita zvaakanga achida nokutsamwa kwake,
+\s akadurura hasha dzake huru; akabatidza moto paZioni,
+\s akapedza nheyo dzaro.
+\p
+\v 12 Madzimambo enyika haana kutenda, kunyange navose vagere panyika yose,
+\s kuti mudzivisi nomuvengi vachapinda
+\s pamasuo eJerusaremu.
+\p
+\v 13 Zvakaitwa nokuda kwezvivi zvavaporofita varo,
+\s nezvakaipa zvavapristi varo, vakateura ropa ravakarurama
+\s mukati maro.
+\p
+\v 14 Vanodzungaira samapofu munzira dzomueta,
+\s vakasvibiswa neropa,
+\s naizvozvo vanhu havagoni kubata nguo dzavo.
+\p
+\v 15 Vakadanidzira kwavari vachiti, "Ibvai, makan'ora!
+\s Ibvai, ibvai, regai kutibata!" Panguva yokutiza nokudzungaira kwavo,
+\s vanhu vakati pakati pamarudzi; "Havangazogarizve pano vari vatorwa."
+\p
+\v 16 Kutsamwa kwaJehovha kwakavaparadzira;
+\s haachavi nehanya navo;
+\s havana kurangarira vapristi, havana kukudza vakuru.
+\p
+\v 17 Meso edu anongopera nazvino achitarira
+\s rubatsiro rwedu pasina;
+\s pakutarira kwedu takatarira
+\s rudzi rusingagoni kutiponesa.
+\p
+\v 18 Vanoronda makwara edu, naizvozvo hatigoni kufamba munzira
+\s dzomuguta redu;
+\s kuguma kwedu kwava pedyo, mazuva edu asvika,
+\s nokuti kuguma kwedu kwasvika.
+\p
+\v 19 Avo vakadzingana nesu, vakamhanyisa kupfuura makondo okudenga;
+\s vakadzingana nesu pamakomo, vakatigarira murenje.
+\p
+\v 20 Mweya wemhino dzedu,
+\s iye muzodzwa waJehovha, wakabatwa muhunza dzavo; iye watakati,
+\s "Pamumvuri wake ndipo patichararama
+\s pakati pamarudzi."
+\p
+\v 21 Farisisa, uve nomufaro,
+\s iwe mukunda weEdhomu, ugere panyika yeUzi;
+\s mukombe uchasvika kwauriwo; uchabatwa newaini ukazvifukura.
+\p
+\v 22 Kurohwa kwezvakaipa zvako
+\s kwapera,
+\s iwe mukunda welioni; haachazokutapisizve;
+\s iye achakurova pamusoro pezvakaipa zvako,
+\s iwe mukunda weEdhomu;
+\s iye achafukura zvivi zvako.
