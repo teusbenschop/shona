@@ -1,6 +1,6 @@
 \c 74
 \s Kukumbira kuti Mwari abatsire vanhu vake
-\p Masikiri yaAsafi.
+\d Masikiri\x + Map. 32.0\x* yaAsafi.
 \p
 \v 1 Mwari, sei maka\add ti\add*rasa nekusingaperi? Hasha dzenyu dzinopfungairi\add rei\add* makwai emafuro enyu?
 \v 2 Rangarirai ungano yenyu \add ya\add*makatenga kare, tsvimbo yenhaka yenyu \add ya\add*makadzikunura; gomo iri reZiyoni makagara mariri.
@@ -19,7 +19,7 @@
 \v 12 Zvakadaro Mwari ndiMambo wangu kubva kare, anoita ruponeso rukuru pakati penyika.
 \v 13 Ndimwi makapamura gungwa nesimba renyu; makaputsa misoro yemabukanana mumvura.
 \v 14 Ndimwi makaputsanya misoro yeRevhiyatani*; mukamupa kuva zvekudya zvevanhu murenje.
-\v 15 Ndimwi makapamura zvitubu nerukova; ndimwi makaomesa nzizi dzenguva dzese.
+\v 15 Ndimwi makapamura zvitubu nerukova; ndimwi makaomesa nzizi dzenguva dzose.
 \v 16 Zuva nderenyu, neusiku ndehwenyu; ndimwi makagadzira chiedza nezuva.
 \v 17 Ndimwi makamisa miganhu yose yepanyika; zhizha nechando makazviumba.
 \p
@@ -28,5 +28,5 @@
 \v 20 Cherekedzai sungano; nokuti nzvimbo dzine rima dzepanyika dzizere neugaro hwemanikidzo.
 \v 21 Anomanikidzwa ngaarege kudzoka achinyara; murombo nemushaiwi ngavarumbidze zita renyu.
 \p
-\v 22 Mukai, Mwari, mumiririre nyaya yenyu; murangarire kuzvidzwa kwenyu kubva kubenzi zuva rese.
+\v 22 Mukai, Mwari, mumiririre nyaya yenyu; murangarire kuzvidzwa kwenyu kubva kubenzi zuva rose.
 \v 23 Regai kukanganwa inzwi revavengi venyu; ruzha rwevanokumukirai rwunokwira nguva nenguva.
