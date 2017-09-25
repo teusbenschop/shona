@@ -1,43 +1,43 @@
 \c 10
 \s Vanhu vanoita sungano naMwari
 \p
-\v 1 Zvino pakudhinda paiva naNehemiya mutongi, mwanakomana waHakariya\x + 1.1.\x*, naZedhekia,
-\v 2 Seraya\x + 11.11.\x*, Azariya\x + 3.23.\x*, Jeremiya\x + 12.34. 12.1,12.\x*,
-\v 3 Pashuri\x + Ezi. 2.38.\x*, Amariya, Marikiya\x + 8.4.\x*,
-\v 4 Hatushi\x + Ezi. 8.2.\x*, Shebhaniya, Maruki,
-\v 5 Harimi\x + Ezi. 2.39.\x*, Meremoti, Obhadhiya\x + Ezi. 8.33.\x*,
-\v 6 Dhaniyeri\x + Ezi. 8.2.\x*, Ginetoni\x + 12.4,16.\x*, Bharuki\x + 3.20.\x*,
-\v 7 Meshurami, Abhiya\x + Ezi. 8.16.\x*, Mijamini\x + 12.5.\x*,
-\v 8 Maaziya, Bhirigai\x + 12.5,18.\x*, Shemaya\x + 12.34,42. 12.6,18. Ezi. 10.21.\x*. Ava vaiva vapristi.
-\v 9 NeVaRevhi: Vese Jeshuwa mwanakomana waAzaniya\x + Ezi. 2.40.\x*, Bhinui\x + Ezi. 8.33.\x*, wevanakomana vaHenadhadhi\x + Ezi. 3.9.\x*, Kadhimieri\x + Ezi. 2.40.\x*.
-\v 10 Nehama dzavo: Shebhaniya\x + 9.4.\x*, Hodhiya\x + 8.7.\x*, Kerita\x + Ezi. 10.23.\x*, Peraya\x + 8.7. 13.13.\x*, Hanani\x + 8.7. 13.13.\x*,
-\v 11 Mika, Rehobhi\x + 11.17,22.\x*, Hashabhiya\x + Ezi. 8.19.\x*,
-\v 12 Zakuri\x + 3.2.\x*, Sherebhiya\x + Ezi. 8.18.\x*, Shebhaniya\x + 9.4.\x*,
-\v 13 Hodhiya\x + 8.7.\x*, Bhani\x + Ezi. 2.10.\x*, Bheninu.
-\v 14 Misoro yevanhu: Paroshi\x + Ezi. 2.3.\x*, Pahati-Moabhi\x + Ezi. 2.6.\x*, Erami\x + Ezi. 2.7.\x*, Zatu\x + Ezi. 2.8.\x*, Bhani\x + Ezi. 10.34.\x*,
-\v 15 Bhuni\x + 9.4.\x*, Azigadhi\x + Ezi. 8.11,12.\x*, Bhebhayi\x + Ezi. 8.11,12.\x*,
-\v 16 Adhoniya, Bhigivhayi\x + Ezi. 2.15,16.\x*, Adhini\x + Ezi. 2.15,16.\x*,
-\v 17 Ateri\x + Ezi. 2.16,17.\x*, Hezekia\x + Ezi. 2.16.\x*, Azuri,
-\v 18 Hodhiya, Hashumi\x + Ezi. 2.19.\x*, Bhezai\x + Ezi. 2.16,17.\x*,
-\v 19 Harifi, Anatoti, Nebhai\x + 7.24.\x*,
-\v 20 Magipiashi\x + Ezi. 2.30.\x*, Meshurami, Heziri\x + Ezi. 8.16.\x*,
-\v 21 Meshezabheri\x + 3.4.\x*, Zadhoki, Jadhua\x + 3.4.\x*,
-\v 22 Peratiya, Hanani\x + 13.13.\x*, Anaya\x + 8.4.\x*,
-\v 23 Hosheya, Hananiya\x + 7.2.\x*, Hashubhi\x + 3.11.\x*,
-\v 24 Haroheshi, Piriha, Shobheki\x + 3.12.\x*,
-\v 25 Rehumi\x + Ezi. 2.2.\x*, Hashabhina\x + 3.10. 9.5.\x*, Maaseya\x + 8.4.\x*,
-\v 26 naAhiya, Hanani, Anani\x + 13.13.\x*,
-\v 27 Maruki\x + Ezi. 10.29,32.\x*, Harimi\x + Ezi. 2.39.\x*, Bhaana\x + Ezi. 2.2.\x*.
+\v 1 Zvino pakudhinda paiva naNehemiya mutongi, mwanakomana waHakariya, naZedhekia,
+\v 2 Seraya, Azariya, Jeremiya,
+\v 3 Pashuri, Amariya, Marikiya,
+\v 4 Hatushi, Shebhaniya, Maruki,
+\v 5 Harimi, Meremoti, Obhadhiya,
+\v 6 Dhaniyeri, Ginetoni, Bharuki,
+\v 7 Meshurami, Abhiya, Mijamini,
+\v 8 Maaziya, Bhirigai, Shemaya. Ava vaiva vapristi.
+\v 9 NeVaRevhi: Vese Jeshuwa mwanakomana waAzaniya, Bhinui, wevanakomana vaHenadhadhi, Kadhimieri.
+\v 10 Nehama dzavo: Shebhaniya, Hodhiya, Kerita, Peraya, Hanani,
+\v 11 Mika, Rehobhi, Hashabhiya,
+\v 12 Zakuri, Sherebhiya, Shebhaniya,
+\v 13 Hodhiya, Bhani, Bheninu.
+\v 14 Misoro yevanhu: Paroshi, Pahati-Moabhi, Erami, Zatu, Bhani,
+\v 15 Bhuni, Azigadhi, Bhebhayi,
+\v 16 Adhoniya, Bhigivhayi, Adhini,
+\v 17 Ateri, Hezekia, Azuri,
+\v 18 Hodhiya, Hashumi, Bhezai,
+\v 19 Harifi, Anatoti, Nebhai,
+\v 20 Magipiashi, Meshurami, Heziri,
+\v 21 Meshezabheri, Zadhoki, Jadhua,
+\v 22 Peratiya, Hanani, Anaya,
+\v 23 Hosheya, Hananiya, Hashubhi,
+\v 24 Haroheshi, Piriha, Shobheki,
+\v 25 Rehumi, Hashabhina, Maaseya,
+\v 26 naAhiya, Hanani, Anani,
+\v 27 Maruki, Harimi, Bhaana.
 \p
-\v 28 Zvino vakasara pavanhu, vapristi, VaRevhi\x + Ezi. 2.36-43.\x*, varindi vemikova, vaimbi, VaNetinimi, nevese vaiva vazvitsaurira murairo waMwari kubva pavanhu venyika idzo, vakadzi vavo, vanakomana vavo, nevakunda vavo, umwe neumwe waiziva wainzwisisa\x + Ezi. 6.21.\x*,
-\v 29 vakabatirira kuhama dzavo, vakuru vavo, ndokupinda muchakatukwa nepamhiko\x + 5.12,13. Det. 29.12,14. 1 Madz. 8.31. Map. 119.106.\x*, kuti vafambe mumurairo waMwari wakapiwa neruoko rwaMozisi\x + 2 Madz. 23.3. 2 Makor. 15.12. 34.31.\x* muranda waMwari\x + Det. 33.1.\x*, nekuchengetedza nekuita mirairo yose yaJehovha Ishe wedu, nemitongo yake nezvimiso zvake;
-\v 30 uye kuti hatingapi vakunda vedu kuvanhu venyika iyo kana kutorera vanakomana vedu vakunda vavo\x + Eki. 34.16. Det. 7.3. Ezi. 9.12,14.\x*.
-\v 31 Kana vanhu venyika vakauya nenhumbi kana zviyo zvipi nezvipi nezuva resabata kuzotengesa, hatina kutenga kwavari nesabata kana nezuva dzvene\x + 13.15-22. Eki. 20.10. Rev. 23.3. Det. 5.12.\x*. Uye ticharega gore rechinomwe\x + Eki. 23.10,11. Rev. 25.4.\x*, nechikwereti cheruoko rwumwe nerwumwe\x + 5.7,10. Det. 15.1,2.\x*.
+\v 28 Zvino vakasara pavanhu, vapristi, VaRevhi, varindi vemikova, vaimbi, VaNetinimi, nevese vaiva vazvitsaurira murairo waMwari kubva pavanhu venyika idzo, vakadzi vavo, vanakomana vavo, nevakunda vavo, umwe neumwe waiziva wainzwisisa,
+\v 29 vakabatirira kuhama dzavo, vakuru vavo, ndokupinda muchakatukwa nepamhiko, kuti vafambe mumurairo waMwari wakapiwa neruoko rwaMozisi muranda waMwari, nekuchengetedza nekuita mirairo yose yaJehovha Ishe wedu, nemitongo yake nezvimiso zvake;
+\v 30 uye kuti hatingapi vakunda vedu kuvanhu venyika iyo kana kutorera vanakomana vedu vakunda vavo.
+\v 31 Kana vanhu venyika vakauya nenhumbi kana zviyo zvipi nezvipi nezuva resabata kuzotengesa, hatina kutenga kwavari nesabata kana nezuva dzvene. Uye ticharega gore rechinomwe, nechikwereti cheruoko rwumwe nerwumwe.
 \v 32 Uye tichamisa patiri mirairo, kuisa patiri chetatu cheshekeri pagore, chive chebasa reimba yaMwari wedu,
-\v 33 chechingwa chekuratidzira\x + Rev. 24.5,6. 2 Makor. 2.4. 1 Makor. 9.32.\x*, nechechipo chechidyiwa chemazuva ese\x + Num.. 28,29.\x*, nechechipo chinopiswa chemazuva ese\x + Num.. 28,29.\x*, chemasabata, chekugara kwemwedzi\x + Num.. 28.11.\x*, chemitambo yakatarwa\x + Num.. 29.39.\x*, nechezvitsvene, nechezvipo zvechivi, kuitira Israeri chiyananiso, nechebasa rese reimba yaMwari wedu\x + Rev. 1.4.\x*.
-\v 34 Zvino isu, vapristi, VaRevhi, nevanhu, takakanda mijenya\x + 11.1. Vato. 20.9.\x* pamusoro pechipo chehuni\x + 13.31. Isa. 40.16.\x*, kuuya na\add cho\add* muimba yaMwari wedu, zvichienderana neimba yemadzibaba edu, panguva dzakatarwa gore negore\x + Ezi. 10.14.\x*, kupisa paaritari yaJehovha Mwari wedu, sezvakanyorwa pamurairo\x + Rev. 6.12.\x*;
-\v 35 nekuuya nezvibereko zvekutanga zvevhu redu nezvibereko zvekutanga zvemichero yose yemiti yose gore negore kuimba yaJehovha\x + Eki. 23.19. 34.26. Rev. 19.23. Num.. 18.12. Det. 26.2.\x*;
-\v 36 nematangwe evanakomana vedu neezvipfuwo zvedu, sezvakanyorwa mumurairo\x + Eki. 13.2,12,13. Rev. 27.26,27. Num.. 18.15,16.\x*, nematangwe emombe dzedu nemakwai edu, kuuisa kuimba yaMwari wedu, kuvapristi vanoshumira muimba yaMwari wedu;
-\v 37 uye zvekutanga\x + Rev. 23.17. Num.. 15.19. 18.12. Det. 18.4.\x* zveupfu hwedu, nezvipo zvedu, nezvibereko zvemiti yose, zvewaini itsva uye zvemafuta, tiuye nazvo kumupristi\x + Num.. 15.20.\x* mumakamuri eimba yaMwari wedu\x + 10.38,39. 2 Madz. 23.11.\x*, nezvegumi zvevhu redu kuVaRevhi, kuti VaRevhi ivavo vagamuchire chegumi kumaguta ese ebasa redu\x + Rev. 27.30.\x*.
-\v 38 Zvino mupristi mwanakomana waAroni achava neVaRevhi, VaRevhi pavachatora zvegumi. Zvino VaRevhi vachakwidza chegumi chechegumi kuimba yaMwari wedu\x + Num.. 18.26.\x* kumakamuri eimba\x + 10.38,39. 2 Madz. 23.11.\x* yezvinokosha\x + 1 Makor. 26.20.\x*.
-\v 39 Nokuti vana vaIsraeri nevana vaRevhi vachauya nechipo chezviyo\x + 13.12. Det. 12.6,11. 2 Makor. 31.12.\x*, chewaini itsva, nemafuta\x + 10.37. 13.5,12.\x*, kumakamuri\x + 10.38,39. 2 Madz. 23.11.\x*, nokuti imo mune midziyo yeimba tsvene, nevapristi vanoshanda, nevarindi vemikova, nevaimbi. Zvino hatingasii imba yaMwari wedu\x + 13.11.\x*.
+\v 33 chechingwa chekuratidzira, nechechipo chechidyiwa chemazuva ese, nechechipo chinopiswa chemazuva ese, chemasabata, chekugara kwemwedzi, chemitambo yakatarwa, nechezvitsvene, nechezvipo zvechivi, kuitira Israeri chiyananiso, nechebasa rese reimba yaMwari wedu.
+\v 34 Zvino isu, vapristi, VaRevhi, nevanhu, takakanda mijenya pamusoro pechipo chehuni, kuuya na\add cho\add* muimba yaMwari wedu, zvichienderana neimba yemadzibaba edu, panguva dzakatarwa gore negore, kupisa paaritari yaJehovha Mwari wedu, sezvakanyorwa pamurairo;
+\v 35 nekuuya nezvibereko zvekutanga zvevhu redu nezvibereko zvekutanga zvemichero yose yemiti yose gore negore kuimba yaJehovha;
+\v 36 nematangwe evanakomana vedu neezvipfuwo zvedu, sezvakanyorwa mumurairo, nematangwe emombe dzedu nemakwai edu, kuuisa kuimba yaMwari wedu, kuvapristi vanoshumira muimba yaMwari wedu;
+\v 37 uye zvekutanga zveupfu hwedu, nezvipo zvedu, nezvibereko zvemiti yose, zvewaini itsva uye zvemafuta, tiuye nazvo kumupristi mumakamuri eimba yaMwari wedu, nezvegumi zvevhu redu kuVaRevhi, kuti VaRevhi ivavo vagamuchire chegumi kumaguta ese ebasa redu.
+\v 38 Zvino mupristi mwanakomana waAroni achava neVaRevhi, VaRevhi pavachatora zvegumi. Zvino VaRevhi vachakwidza chegumi chechegumi kuimba yaMwari wedu kumakamuri eimba yezvinokosha.
+\v 39 Nokuti vana vaIsraeri nevana vaRevhi vachauya nechipo chezviyo, chewaini itsva, nemafuta, kumakamuri, nokuti imo mune midziyo yeimba tsvene, nevapristi vanoshanda, nevarindi vemikova, nevaimbi. Zvino hatingasii imba yaMwari wedu.
