@@ -1,0 +1,3 @@
+Text of Shona Bible
+===================
+
